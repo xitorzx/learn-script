@@ -8,7 +8,7 @@ Last update 2018/1/22
 * [Python](#py)
     * [Imaging Processing](#imagepress)
     * [SKlearn](#sk)
-    * [Ditheribf](#di)
+    * [Dithering](#di)
 * [C_Cpp](#Cpp)
     * [strrev library](#strrev)
         
@@ -45,6 +45,7 @@ Origin version 0.1 from Internet example.
 ```
 Origin Project, still devolping
 ```
+
 ***
 
 <h2 id="Cpp" align="center">C_Cpp</h2>
