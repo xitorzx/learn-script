@@ -8,6 +8,7 @@ Last update 2018/1/22
 * [Python](#py)
     * [Imaging Processing](#imagepress)
     * [SKlearn](#sk)
+    * [Ditheribf](#di)
 * [C_Cpp](#Cpp)
     * [strrev library](#strrev)
         
@@ -30,12 +31,16 @@ Revise RGB dividing way
 
 Origin version 0.1 from Internet example for only python 2.x
 ```
-
+***
 <h3 id="sk" align="center">SKlearn</h3>
 ```
 Origin version 0.1 from Internet example.
 ```
-
+***
+<h3 id="sk" align="center">Dithering</h3>
+```
+Origin Project, still devolping
+```
 ***
 
 <h2 id="Cpp" align="center">C_Cpp</h2>
