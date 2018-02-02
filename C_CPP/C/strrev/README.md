@@ -1,7 +1,8 @@
 <h1 align="center"> Static lib for reverse string(char array) in C language </h1>
 
 ```
-Using gcc 5.4.0(ubuntu 16.04.5)
+Environment:
+Using gcc 5.4.0 (ubuntu 16.04.5)
 ```
 
 ```
