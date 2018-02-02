@@ -21,6 +21,7 @@ It's the learning script for my self.
 I won't write too much discription in this repository.
 It's aim to make me review some code quickly.
 ```
+
 ***
 <h2 id="py" align="center">Python</h2>
 <h3 id="imagepress">Imaging Processing</h3>
@@ -31,13 +32,16 @@ Revise RGB dividing way
 
 Origin version 0.1 from Internet example for only python 2.x
 ```
-***
-<h3 id="sk" align="center">SKlearn</h3>
+
+<h3 id="sk">SKlearn</h3>
+
 ```
 Origin version 0.1 from Internet example.
 ```
-***
-<h3 id="sk" align="center">Dithering</h3>
+
+
+<h3 id="di" >Dithering</h3>
+
 ```
 Origin Project, still devolping
 ```
