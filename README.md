@@ -1,7 +1,7 @@
 <h1 align="center">Learning Script</h1>
 
 ```
-Last update 2018/1/22
+Last update 2018/2/2
 ```
 
 * [Introduction](#overview)
