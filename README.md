@@ -9,6 +9,8 @@ Last update 2018/2/2
     * [Imaging Processing](#imagepress)
     * [SKlearn](#sk)
     * [Dithering](#di)
+    * [Multiprocess](#mp)
+    * [GUI](#gui)
 * [C_Cpp](#Cpp)
     * [strrev library](#strrev)
         
