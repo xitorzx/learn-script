@@ -30,13 +30,27 @@ Usage:
 2. p1.start()
 3. p1.join()
 
-###Caution###
-Target function can't have return value, so...use pool!!
+#Caution# Target function can't have return value
+
+if adding Queue:
+1. q = mp.Queue()
+2. p1 = mp.Process(target=job,(q,var,))
+# at the job fuction:
+3. q.put(res)
+# at main function:
+4. q.get()
+
+* * *
+More complex than using Pool
 ```
 
 <h3 id='pool'>Pool</h3>
 
 ```
+pool can collect all files return.
+
+1. p1 = mp.Pool() #in () you can define the max processes
+2. p1.map(job,(var,))
 
 ```
 
