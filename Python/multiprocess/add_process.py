@@ -23,8 +23,8 @@ def main():
     res1 = q.get()
     res2 = q.get()
 
-    print res1
-    print res2
+    print (res1)
+    print (res2)
 
 if __name__ == '__main__':
     main()
