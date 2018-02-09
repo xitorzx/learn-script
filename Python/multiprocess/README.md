@@ -44,15 +44,14 @@ if adding Queue:
 * * *
 More complex than using Pool
 ```
-<h3 id='ad_more'>More Information</h3>
-<font color=red>
+<h4 id='ad_more'>More Information</h4>
+
 Note that the start(), join(), is_alive(), terminate() and exitcode methods
 
 should only be called by the process that created the process object.
 
 a.k.a. Using p1 = mp.Process(target=job,(var,))
 
-</font>
 
 <h3 id='pool'>Pool</h3>
 
