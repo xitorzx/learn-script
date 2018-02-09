@@ -44,7 +44,7 @@ if adding Queue:
 * * *
 More complex than using Pool
 ```
-<h3 id='ad_more'>More Information</h3>
+<h4 id='ad_more'>More Information</h4>
 <font color=red>
 Note that the start(), join(), is_alive(), terminate() and exitcode methods
 
