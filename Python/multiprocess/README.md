@@ -58,5 +58,6 @@ pool can collect all files return.
 <h2 id="tkx" align=center> Thanks </h2>
 
 ## Thanks to [Morvan][1] and all other internet resources.
-
+## Thanks to [Python script][2].(Version 3.5)
 [1]:https://morvanzhou.github.io/ "Morvan"
+[2]:https://docs.python.org/3.5/library/multiprocessing.html#module-multiprocessing "Python script"
