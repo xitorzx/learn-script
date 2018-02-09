@@ -45,7 +45,11 @@ if adding Queue:
 More complex than using Pool
 ```
 <h4 id='ad_more'>More Information</h4>
+<<<<<<< HEAD
 
+=======
+<font color=red>
+>>>>>>> 97daebecb5275f8f20bb254eb5d680a5e2b6605b
 Note that the start(), join(), is_alive(), terminate() and exitcode methods
 
 should only be called by the process that created the process object.
