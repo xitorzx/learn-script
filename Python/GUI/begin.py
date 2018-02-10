@@ -51,5 +51,6 @@ class GUIDemo(Frame):
 
 if __name__ == '__main__':
     root = Tk()
+    root.title('First')
     app = GUIDemo(master=root)
     app.mainloop()
