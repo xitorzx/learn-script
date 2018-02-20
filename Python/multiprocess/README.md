@@ -58,8 +58,12 @@ a.k.a. Using p1 = mp.Process(target=job,(var,))
 ```
 pool can collect all files return.
 
-1. p1 = mp.Pool() #in () you can define the max processes
-2. p1.map(job,(var,))
+1. p1 = mp.Pool() #in "()" you can define the max processes
+2. p1.map(job,(var,)) #only execute one var
+
+--alternative way--
+1. p1 = mp.Pool()
+2. p1.apply(func,args=(vars,)) #for sync threading
 
 ```
 
