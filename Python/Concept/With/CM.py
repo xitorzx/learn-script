@@ -10,7 +10,7 @@ class File():
     def __enter__(self):
         print ('Opening file' + self.filename)
         self.openfile = open(self.filename,self.mode)
-        return self.openfile
+        return self.openfile #must return to ensure no error in CM
     def __exit__(self, type, value, traceback):
         print ('Closing File' + self.filename)
         self.openfile.close()
